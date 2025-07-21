@@ -1,0 +1,4 @@
+{
+  "entrypoint": "handler.py",
+  "handler": "generate_pixelart"
+}
